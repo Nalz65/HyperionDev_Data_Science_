@@ -1,0 +1,46 @@
+Hello.
+
+This is a readme file detailing what has been done for my final task for the Data Science Bootcamp
+
+First I will explain what was required of this task
+
+I had to do the following:
+
+1. GET THE DATASET
+
+2. PREPROCESSING THE DATA
+
+3. BUILD THE MODEL
+
+4. TRAIN AND TUNE THE MODEL
+
+5. MAKING PREDICTIONS
+
+1. GET THE DATASET:
+-Calculate and report the mean review size, its standard deviation and create a boxplot.
+-Calculate the number of unique words in the dataset
+-What is the number of positive reviews vs negative reviews
+
+2. PREPROCESSING THE DATA:
+-Padded the data using pad_sequences to get the same length for each review
+-Created dataframes and assigned dummy values where 0 = positive and 1 = negative review.
+-Concatenated that into a single dataframe with corresponding token and review to get the X and Y with no shape errors
+-Split the data into a training and test set
+-Filled out the assess_model function to get the scores of the dataset
+
+3. BUILD THE MODEL:
+-Define network architecture
+-Created instance of the model
+-Added the layers
+
+4. TRAIN AND TUNE THE MODEL:
+-Compiled the model
+-Got a summary of the model
+-Fitted the model
+-Examined the performance of the model
+-Plotted graphs for this model
+
+5. MAKING PREDICTIONS:
+-Used sample titles 
+-tokenized the sample
+-predicted the sample data.
