@@ -1,0 +1,20 @@
+Using Matric year 2016 dataset.
+
+Planning the following visualizations.
+1. Declare the data that exists, columns.
+2. find the missing data.
+3. Clean up the missing data.
+4. Explore the data using tables
+5. visualise the data
+6. report on the data
+
+
+possible questions to answer?
+1. How many students belong to each quintile?
+2. Students who wrote the most for each year
+3. Students who wrote the least
+3. students who passed the most 
+4. students who passed the least
+5. top 5 students with the highest percentage
+6. highest to lowest performing quintile
+7. highest percentage of each quintile.
